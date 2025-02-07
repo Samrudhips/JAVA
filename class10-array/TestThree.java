@@ -8,6 +8,7 @@ public class TestThree {
         char[] avail={'y','n'};
         boolean[] discount={true,false};
         String[] enames={"RG","SG","MG"};
+        //Iterating the array through for loop
         for(int eid:eids){
             System.out.println(eid);
 

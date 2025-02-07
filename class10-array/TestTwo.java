@@ -3,11 +3,11 @@ public class TestTwo {
         String enames[];//Declaration
         enames=new String[5];//creation,size is mandatory or else compilation error
         enames[4]="Modi";//Intilization
-        System.out.println(enames[0]);
-        System.out.println(enames[1]);
-        System.out.println(enames[2]);
-        System.out.println(enames[3]);
-        System.out.println(enames[4]);
+        System.out.println(enames[0]);//null
+        System.out.println(enames[1]);//null
+        System.out.println(enames[2]);//null
+        System.out.println(enames[3]);//null
+        System.out.println(enames[4]);//Modi
     }
 
     
