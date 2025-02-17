@@ -2,7 +2,7 @@
 public class TestOne {
     public static void main(String[] args) {
         float[] eids;//declaration
-        eids =new float[4];//Creation
+        eids=new float[3];//Creation
         eids[0]=101;//Initilization
         eids[1]=102f;//stores based on indexing
         eids[2]=103f;
