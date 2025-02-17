@@ -9,7 +9,7 @@ public abstract class TestFive {
 }
 /*
  partial implementation
- note 1:If class contains atleast one abstract method the we should 
+ note 1:If class contains atleast one abstract method then we should 
  declare the class as abstract
  note 2:
  abstract class contains:
