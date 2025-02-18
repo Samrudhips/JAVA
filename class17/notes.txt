@@ -1,0 +1,8 @@
+What is interface
+what it contains?
+1.abstract methods
+2.default methods
+3.static methods
+4.variable-public static final
+
+difference between abstract and interface?
