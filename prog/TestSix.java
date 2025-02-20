@@ -2,12 +2,12 @@
 import java.math.*;
 public class TestSix {
     public static void main(String[] args) {
-        int n=154,armstrong=0;
+        int n=153,armstrong=0;
         int original=n;
         while(n>0){
           int temp=n%10;//3
             temp=(int)Math.pow(temp,3);//27
-            armstrong=armstrong+temp;
+            armstrong=armstrong+temp;//27
             n=n/10;//15
     
         }
